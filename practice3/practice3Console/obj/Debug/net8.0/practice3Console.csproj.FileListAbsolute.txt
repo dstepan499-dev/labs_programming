@@ -1,0 +1,15 @@
+D:\labs_programming\practice3\practice3Console\bin\Debug\net8.0\practice3Console.exe
+D:\labs_programming\practice3\practice3Console\bin\Debug\net8.0\practice3Console.deps.json
+D:\labs_programming\practice3\practice3Console\bin\Debug\net8.0\practice3Console.runtimeconfig.json
+D:\labs_programming\practice3\practice3Console\bin\Debug\net8.0\practice3Console.dll
+D:\labs_programming\practice3\practice3Console\bin\Debug\net8.0\practice3Console.pdb
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.AssemblyInfoInputs.cache
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.AssemblyInfo.cs
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.csproj.CoreCompileInputs.cache
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.sourcelink.json
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.dll
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\refint\practice3Console.dll
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.pdb
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\practice3Console.genruntimeconfig.cache
+D:\labs_programming\practice3\practice3Console\obj\Debug\net8.0\ref\practice3Console.dll
