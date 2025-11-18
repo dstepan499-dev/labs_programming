@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Lab1Console\\Vehicle.cs",
               "ToolTip": "D:\\labs_programming\\lab1\\Lab1Console\\Vehicle.cs",
               "RelativeToolTip": "Lab1Console\\Vehicle.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T22:14:51.521Z",
               "EditorCaption": ""
@@ -59,7 +59,8 @@
               "RelativeToolTip": "Lab1Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:14:50.421Z"
+              "WhenOpened": "2025-10-20T22:14:50.421Z",
+              "EditorCaption": ""
             }
           ]
         }

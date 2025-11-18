@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\labs_programming\\PharmacyWarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\outgoinginvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\outgoinginvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\outgoinginvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\outgoinginvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\incominginvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\incominginvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\models\\incominginvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\models\\incominginvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\viewmodels\\medicinesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\viewmodels\\medicinesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|d:\\labs_programming\\pharmacywarehouse\\pharmacywarehouse\\pharmacywarehouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{473B7878-3375-4EA6-8567-010F861150C5}|PharmacyWarehouse\\PharmacyWarehouse.csproj|solutionrelative:pharmacywarehouse\\pharmacywarehouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PharmacyDbContext.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\PharmacyDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\PharmacyDbContext.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\PharmacyDbContext.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\PharmacyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:23:23.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IncomingInvoiceItem.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\IncomingInvoiceItem.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\IncomingInvoiceItem.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\IncomingInvoiceItem.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\IncomingInvoiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:21:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IncomingInvoice.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\IncomingInvoice.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\IncomingInvoice.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\IncomingInvoice.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\IncomingInvoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:21:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\Customer.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\Customer.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:20:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\Supplier.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\Supplier.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:19:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\Medicine.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\Medicine.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:17:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutgoingInvoiceItem.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\OutgoingInvoiceItem.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\OutgoingInvoiceItem.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\OutgoingInvoiceItem.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\OutgoingInvoiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:22:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutgoingInvoice.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\OutgoingInvoice.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\Models\\OutgoingInvoice.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\Models\\OutgoingInvoice.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\Models\\OutgoingInvoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:21:48.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:33:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\MainWindow.xaml",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\MainWindow.xaml",
+              "RelativeToolTip": "PharmacyWarehouse\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T15:33:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicinesViewModel.cs",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\ViewModels\\MedicinesViewModel.cs",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\ViewModels\\MedicinesViewModel.cs",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\ViewModels\\MedicinesViewModel.cs",
+              "RelativeToolTip": "PharmacyWarehouse\\ViewModels\\MedicinesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:30:54.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PharmacyWarehouse.csproj",
+              "DocumentMoniker": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\PharmacyWarehouse.csproj",
+              "RelativeDocumentMoniker": "PharmacyWarehouse\\PharmacyWarehouse.csproj",
+              "ToolTip": "D:\\labs_programming\\PharmacyWarehouse\\PharmacyWarehouse\\PharmacyWarehouse.csproj",
+              "RelativeToolTip": "PharmacyWarehouse\\PharmacyWarehouse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T12:04:48.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

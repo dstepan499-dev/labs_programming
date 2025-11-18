@@ -1,0 +1,15 @@
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.AssemblyInfoInputs.cache
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.AssemblyInfo.cs
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.csproj.CoreCompileInputs.cache
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.sourcelink.json
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\bin\Debug\net8.0\Lab2Console.exe
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\bin\Debug\net8.0\Lab2Console.deps.json
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\bin\Debug\net8.0\Lab2Console.runtimeconfig.json
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\bin\Debug\net8.0\Lab2Console.dll
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\bin\Debug\net8.0\Lab2Console.pdb
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.dll
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\refint\Lab2Console.dll
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.pdb
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\Lab2Console.genruntimeconfig.cache
+D:\labs_programming\lab2\Lab2Solution\Lab2Console\obj\Debug\net8.0\ref\Lab2Console.dll

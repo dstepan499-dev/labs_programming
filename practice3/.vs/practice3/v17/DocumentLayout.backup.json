@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "D:\\labs_programming\\practice3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\collectionshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\collectionshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|d:\\labs_programming\\practice3\\practice3console\\collectionshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB2D52-CFDD-4D38-9AD1-705EC7876878}|practice3Console\\practice3Console.csproj|solutionrelative:practice3console\\collectionshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Task1.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice3\\practice3Console\\Task1.cs",
               "RelativeDocumentMoniker": "practice3Console\\Task1.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\Task1.cs",
               "RelativeToolTip": "practice3Console\\Task1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T15:36:14.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Task2.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice3\\practice3Console\\Task2.cs",
               "RelativeDocumentMoniker": "practice3Console\\Task2.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\Task2.cs",
               "RelativeToolTip": "practice3Console\\Task2.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T15:36:39.816Z",
               "EditorCaption": ""
@@ -74,59 +74,58 @@
               "RelativeDocumentMoniker": "practice3Console\\Task3.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\Task3.cs",
               "RelativeToolTip": "practice3Console\\Task3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T15:36:59.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Task4.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice3\\practice3Console\\Task4.cs",
               "RelativeDocumentMoniker": "practice3Console\\Task4.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\Task4.cs",
               "RelativeToolTip": "practice3Console\\Task4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T15:37:16.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice3\\practice3Console\\Program.cs",
               "RelativeDocumentMoniker": "practice3Console\\Program.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\Program.cs",
               "RelativeToolTip": "practice3Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T15:29:36.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CollectionsHelper.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice3\\practice3Console\\CollectionsHelper.cs",
               "RelativeDocumentMoniker": "practice3Console\\CollectionsHelper.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\CollectionsHelper.cs",
               "RelativeToolTip": "practice3Console\\CollectionsHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:35:47.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T15:35:47.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice3\\practice3Console\\Vehicle.cs",
               "RelativeDocumentMoniker": "practice3Console\\Vehicle.cs",
               "ToolTip": "D:\\labs_programming\\practice3\\practice3Console\\Vehicle.cs",
               "RelativeToolTip": "practice3Console\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T15:30:18.837Z"
             }
