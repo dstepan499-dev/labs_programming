@@ -1,0 +1,15 @@
+D:\labs_programming\practice4\practice4\bin\Debug\net8.0\practice4.exe
+D:\labs_programming\practice4\practice4\bin\Debug\net8.0\practice4.deps.json
+D:\labs_programming\practice4\practice4\bin\Debug\net8.0\practice4.runtimeconfig.json
+D:\labs_programming\practice4\practice4\bin\Debug\net8.0\practice4.dll
+D:\labs_programming\practice4\practice4\bin\Debug\net8.0\practice4.pdb
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.AssemblyInfoInputs.cache
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.AssemblyInfo.cs
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.csproj.CoreCompileInputs.cache
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.sourcelink.json
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.dll
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\refint\practice4.dll
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.pdb
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\practice4.genruntimeconfig.cache
+D:\labs_programming\practice4\practice4\obj\Debug\net8.0\ref\practice4.dll
