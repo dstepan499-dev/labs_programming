@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\labs_programming\\practice4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|d:\\labs_programming\\practice4\\practice4\\monthtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|solutionrelative:practice4\\monthtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|d:\\labs_programming\\practice4\\practice4\\studenttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|solutionrelative:practice4\\studenttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|d:\\labs_programming\\practice4\\practice4\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|solutionrelative:practice4\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|d:\\labs_programming\\practice4\\practice4\\monthtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|solutionrelative:practice4\\monthtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A28D9C82-4AA1-4356-889A-925CCD0696B1}|practice4\\practice4.csproj|d:\\labs_programming\\practice4\\practice4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentTasks.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice4\\practice4\\StudentTasks.cs",
               "RelativeDocumentMoniker": "practice4\\StudentTasks.cs",
               "ToolTip": "D:\\labs_programming\\practice4\\practice4\\StudentTasks.cs",
               "RelativeToolTip": "practice4\\StudentTasks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:03:08.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ConsoleHelper.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice4\\practice4\\ConsoleHelper.cs",
               "RelativeDocumentMoniker": "practice4\\ConsoleHelper.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MonthTasks.cs",
               "DocumentMoniker": "D:\\labs_programming\\practice4\\practice4\\MonthTasks.cs",
               "RelativeDocumentMoniker": "practice4\\MonthTasks.cs",
               "ToolTip": "D:\\labs_programming\\practice4\\practice4\\MonthTasks.cs",
               "RelativeToolTip": "practice4\\MonthTasks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:00:52.03Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "practice4\\Student.cs",
               "ToolTip": "D:\\labs_programming\\practice4\\practice4\\Student.cs",
               "RelativeToolTip": "practice4\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T16:54:47.437Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "practice4\\Program.cs",
               "ToolTip": "D:\\labs_programming\\practice4\\practice4\\Program.cs",
               "RelativeToolTip": "practice4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T16:54:14.481Z",
               "EditorCaption": ""
